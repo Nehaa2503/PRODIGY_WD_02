@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .stopwatch {
+    margin-top: 50px;
+  }
+  
+  .display {
+    font-size: 3em;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 1em;
+  }
+  
+  .laps {
+    margin-top: 20px;
+    text-align: left;
+  }
+  
+  .lap-header {
+    font-weight: bold;
+  }
+  
+  .lap-time, .total-time {
+    display: inline-block;
+    width: 33%;
+  }
+  
+  .lap-count {
+    width: 10%;
+  }
+  
